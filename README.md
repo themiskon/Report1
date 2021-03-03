@@ -3,9 +3,10 @@ This report is about a basic advection diffusion model.
 The variables are described here and in the matlab file.
 
 How to use the matlab file:
-I've created the file as a live script. you can run each section individualy, or run the code all in once.
+I've created the file as a live script. you can run each section individually, or run the code all in once.
 **the variables are not as a nested function**
-As a first run I suggest a 'whole code running'. Then you can change the graphs, variables or whatever else you'd like
+
+As a first run I suggest a 'whole code running'. Then you can change the graphs, variables or whatever you'd like
 
 For a sensitivity test pls add these lines:
 on the top of the code:
