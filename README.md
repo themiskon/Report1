@@ -2,8 +2,7 @@
 <strong>This report is about a basic advection diffusion model.</strong>
 <p>The variables are described <del>here and</del> in the matlab file.</p>
 <p><strong>How to use the matlab file:</strong>
-I've created the file as a live script. you can run each section individually, or run the code all in once.
-**the variables are not as a nested function**</p>
+I've created the file as a live script. you can run each section individually, or run the code all in once.</p>
 <p>As a first run I suggest a 'whole code running'. Then you can change the graphs, variables or whatever you'd like</p>
 <p>For a sensitivity test pls add these lines:
 on the top of the code:
@@ -15,7 +14,7 @@ Savedresults(i)=y(:,187*x) <i>I need to check if this is the case... probably th
 <p>and then locate the value and the position of max concentration of phytoplankton[location(i),value(i)] = max(saveresults(i))
 end</p>
 <p>you can work the other way around, i.e, first find the max value of P and then save the results. be carefull not to include the first years.</p>
-<p>**About the model**</p>
+<p><b>About the model</b></p>
 <p>we assume that there are 3 different material categories in the water column:
 Phytoplankton, Dentritus, Nutrients
 all measured in mmol/m<sup>3</sup>
