@@ -16,7 +16,7 @@ end</p>
 <p>you can work the other way around, i.e, first find the max value of P and then save the results. be carefull not to include the first years.</p>
 <p><b>About the model</b></p>
 <p>we assume that there are 3 different material categories in the water column:
-Phytoplankton, Dentritus, Nutrients
+Phytoplankton, Detritus, Nutrients
 all measured in mmol/m<sup>3</sup>
 also there is a UML (upper mixed layer) and
 the light is about the par (photosynthetic active radiation) and it is measured in mmol*m<sup>-2</sup>*time<sup>-1</sup>. For the other variable units please refer to the code and the pdf file. 
