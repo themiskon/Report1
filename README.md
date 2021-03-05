@@ -10,7 +10,7 @@ As a first run I suggest a 'whole code running'. Then you can change the graphs,
 
 <p>Add, next to the variable you are interested in:</p>
 <p>var + (i-1)*change factor</p>
-<p>As default you can check 5 variables. Please replace the lines in file sensianalysis regarding the legend. you can also use negative 
+<p>As default you can check 5 values. Please replace the lines in file sensianalysis regarding the legend. you can also use negative 
 values if you want to do the sensitivity analysis around a specific value. </p>
 
 <p>The file gridsensitivity.m uses the functions in files calclightNS.mlx and report1NS. It creates a fiigure that shows that
