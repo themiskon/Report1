@@ -1,16 +1,16 @@
 # Report1
 <strong>This report is about a basic advection diffusion model.</strong>
-<p>The variables are described <del>here and</del> in the matlab file.</p>
+<p>The variables are described <del>here and</del> in the matlab and the pdf file.</p>
 <p><strong>How to use the matlab file:</strong>
 
 <p>The main file is the Report_1_main.mlx. I've created the file as a live script. you can run each section individually, or run the code all in once.
 As a first run I suggest a 'whole code running'. Then you can change the graphs, variables or whatever you'd like</p>
 
-<p>For a sensitivity test pls use the file sensianalysis.m. this uses the sensitivity.mlx function and the calclightNS.mlx function</p>
+<p>For a sensitivity test please use the file sensianalysis.m. this uses the sensitivity.mlx function and the calclightNS.mlx function</p>
 
 <p>Add, next to the variable you are interested in:</p>
 <p>var + (i-1)*change factor</p>
-<p>As default you can check 5 values. Please replace the lines in file sensianalysis regarding the legend. you can also use negative 
+<p>By default you can check 5 values. Please replace the lines in file sensianalysis regarding the legend. you can also use negative 
 values if you want to do the sensitivity analysis around a specific value. </p>
 
 <p>The file gridsensitivity.m uses the functions in files calclightNS.mlx and report1NS. It creates a fiigure that shows that
