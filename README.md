@@ -5,7 +5,7 @@
 
 <p>The main file is the Report_1_main.mlx. I've created the file as a live script. you can run each section individually, or run the code all in once.
 As a first run I suggest a 'whole code running'. Then you can change the graphs, variables or whatever you'd like</p>
-<font style="font-size:0px"> I am the spirit of this code, I keep it safe </font>
+
 <p>For a sensitivity test please use the file sensianalysis.m. this uses the sensitivity.mlx function and the calclightNS.mlx function</p>
 
 <p>Add, next to the variable you are interested in:</p>
