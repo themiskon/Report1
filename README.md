@@ -24,5 +24,5 @@ Phytoplankton, Detritus, Nutrients
 all measured in mmol/m<sup>3</sup>
 also there is a UML (upper mixed layer) and
 the light is about the par (photosynthetic active radiation) and it is measured in mmol*m<sup>-2</sup>*time<sup>-1</sup>. For the other variable units please refer to the code and the pdf file. 
-The depth of the UML and the intensity of light increasing from 21st of december until 21st of june and then they're decreasing. It is a simplified assumption: the sun comes in summer and goes to another solar system in winter.</p>
+The depth of the UML and the intensity of light are increasing from 21st of december until 21st of june and then they're decreasing. It is a simplified assumption: the sun comes in summer and goes to another solar system in winter.</p>
 
