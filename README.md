@@ -14,7 +14,7 @@ As a first run I suggest a 'whole code running'. Then you can change the graphs,
 values if you want to do the sensitivity analysis around a specific value. </p>
 
 <p>The file gridsensitivity.m uses the functions in files calclightNS.mlx and report1NS. It creates a fiigure that shows that
-the model is not depended on the grid size (returns the same results for different grid values). </p>
+the model is not depending on the grid size (returns the same results for different grid values). </p>
 <p><b>High grid values reduce the running time significantly.</b></p>
 
 
@@ -24,5 +24,5 @@ Phytoplankton, Detritus, Nutrients
 all measured in mmol/m<sup>3</sup>
 also there is a UML (upper mixed layer) and
 the light is about the par (photosynthetic active radiation) and it is measured in μmol*m<sup>-2</sup>*time<sup>-1</sup>. For the other variable units please refer to the code and the pdf file. 
-The depth of the UML and the intensity of light are increasing from 21st of december until 21st of june and then they're decreasing. It is a simplified assumption: the sun comes in summer and goes to another solar system in winter.</p>
+The depth of UML and intensity of light are increasing from 21st of December until 21st of June and then they're decreasing. It is a simplified assumption: the sun comes in summer and goes away in winter.</p>
 
